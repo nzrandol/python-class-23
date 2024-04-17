@@ -12,15 +12,15 @@
 
 All lessons are stored in folders titled Lesson#-Description, each has a regular version and a student version which has some code removed for active-learning. Optional self-grading homeworks are listed along with lessons.
 
-- [Lesson 0: Introduction to Programming and Python](/Lesson_0_Introduction/Lesson_0_Student_Version.ipynb)
-- [Lesson 1: Operators and Data Types](/Lesson_1_Basics/Lesson_1.ipynb)
-- [Lesson 2: Iterables, Modules and Libraries](/Lesson_2_Control_Structs/Lesson_2_Control_structs_teacher.ipynb)
-- [Lesson 3: Abstraction and Functions](/Lesson_3_Abstraction_Functions/Lesson_3.ipynb)
+- [Lesson 0: Introduction to Programming and Python](/Lesson_0_Introduction/Lesson_0_Introduction.ipynb)
+- [Lesson 1: Operators and Data Types](/Lesson_1_Basics/Lesson_1_Basics.ipynb)
+- [Lesson 2: Iterables, Modules and Libraries](/Lesson_2_Control_Structs/Lesson_2_Control_Structs.ipynb)
+- [Lesson 3: Abstraction and Functions](/Lesson_3_Abstraction_Functions/Lesson_3_Abstraction_Functions.ipynb)
   - [Functions Homework 1](https://www.w3schools.com/python/exercise.asp?filename=exercise_functions1)
-- [Lesson 4: File input/output, String Manipulation, Pandas 1](/Lesson_4_FileIO/Lesson_4.ipynb)
-- [Lesson 5: Pandas II](/Lesson_5_Pandas_DataFrame/Lesson5_pandas_DataFrame_Teacher.ipynb)
+- [Lesson 4: File input/output, String Manipulation, Pandas 1](/Lesson_4_FileIO/Lesson_4_FileIO.ipynb)
+- [Lesson 5: Pandas II](/Lesson_5_Pandas_DataFrame/Lesson_5_Pandas_DataFrame.ipynb)
 - [Lesson 6: Numpy](Lesson_6_NumPy/Lesson_6_NumPy.ipynb)
-- [Lesson 7: Plotting](/Lesson_7_Plotting/plotting_student.ipynb)
+- [Lesson 7: Plotting](/Lesson_7_Plotting/Lesson_7_Plotting.ipynb)
 - Lesson 8: Review/Q&A
 
 ---
